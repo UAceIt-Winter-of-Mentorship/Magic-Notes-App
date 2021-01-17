@@ -3,7 +3,7 @@
 ### How to Use ?
 
 This is awesome note app where you can add you note, delete any note and search your note.
-This app is build using vanilla JavaScript. You can view the app [here](https://vishal-raj-1.github.io/Magic-Notes-App/)
+This app is build using vanilla JavaScript. You can view the app [here](https://uaceit-winter-of-mentorship.github.io/Magic-Notes-App/)
 
 ### Tech Stack Used
 - JavaScript 
